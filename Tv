@@ -305,7 +305,7 @@ http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/3246
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: CBSN HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/2222
 
-#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-cartoon-network-logo-television-animation-cartoon-915235/preview.html" group-title="us" tvg-id="" tvg-name="", US: CARTOON NETWORK
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: CARTOON NETWORK
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/15
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="1138" tvg-name="", US: AMC HD
