@@ -209,13 +209,13 @@ http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/189
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: A&E HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/50
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="1136" tvg-name="", US: TNT HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: TNT HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/122
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="1168" tvg-name="", US: SYFY HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: SYFY HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/124
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="1139" tvg-name="", US: USA Network
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: USA Network
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/892
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: NBC Golf
@@ -239,7 +239,7 @@ http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/140
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: COMEDY CENTRAL HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/141
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="3" tvg-name="", US: CBS
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: CBS
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/131
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: BRAVO HD
