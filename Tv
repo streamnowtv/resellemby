@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: Starz Edge
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="1" tvg-name="", US: Starz Edge
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/110411
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: USA Network HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="2" tvg-name="", US: USA Network HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/1096
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: SPIKE HD
