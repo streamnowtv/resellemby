@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="1" tvg-name="", US: Starz Edge
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="732" tvg-name="", US: Starz Edge
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/110411
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="2" tvg-name="", US: USA Network HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="25" tvg-name="", US: USA Network HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/1096
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: SPIKE HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/1092
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: NICKELODEN HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="129" tvg-name="", US: NICKELODEN HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/1076
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: National Geographic
@@ -239,7 +239,7 @@ http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/140
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: COMEDY CENTRAL HD
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/141
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: CBS
+#EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="3" tvg-name="", US: CBS
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/131
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="us" tvg-id="" tvg-name="", US: BRAVO HD
