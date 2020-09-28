@@ -704,3 +704,334 @@ http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/8808
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="spanish" tvg-id="" tvg-name="", Latino: TLnovelas
 http://m3ulink.com:7899/Jjil948181-restream/8eVOPaCM/16183
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="dominican" tvg-id="" tvg-name="", Acento TV
+http://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKsv5Xd.png" group-title="dominican" tvg-id="" tvg-name="", Ame 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bellavision8.com/bellavision_logo%20(1).png" group-title="dominican" tvg-id="" tvg-name="", Bellavision 8
+http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NCuyez.png" group-title="dominican" tvg-id="" tvg-name="", Bonao TV Canal 12
+http://ss1.domint.net:2226/btv_str/bonao/chunklist_w482371085.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIrrAaR.png" group-title="dominican" tvg-id="" tvg-name="", Buena TV Canal 14
+https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY4Nzef.png" group-title="dominican" tvg-id="" tvg-name="", Canal 4 RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QlWnpQ.jpg" group-title="dominican" tvg-id="" tvg-name="", Canal 25 Santiago
+https://ss1.domint.net:3108/c25_str/canal25/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzICwYY.png" group-title="dominican" tvg-id="" tvg-name="", Canal del Sol 65
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQxXbjN.png" group-title="dominican" tvg-id="" tvg-name="", Carivision
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBJnty.png" group-title="dominican" tvg-id="" tvg-name="", Cinevision 19
+http://cinevision01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72pioLp.png" group-title="dominican" tvg-id="" tvg-name="", Color Vision 9 (New!)
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPbU5er.png" group-title="dominican" tvg-id="" tvg-name="", Digital 15
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnmAyXT.png" group-title="dominican" tvg-id="" tvg-name="", Digital Vision 63
+http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HnBtC9.png" group-title="dominican" tvg-id="" tvg-name="", Faro Vision
+http://184.173.181.2:1935/8060/8060/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="dominican" tvg-id="" tvg-name="", Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="dominican" tvg-id="" tvg-name="", GH Television
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="dominican" tvg-id="" tvg-name="", HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="dominican" tvg-id="" tvg-name="", Info TDN
+http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pp6O7SB.png" group-title="dominican" tvg-id="" tvg-name="", Linieros TV 36
+http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="dominican" tvg-id="" tvg-name="", Luna TV
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXE2CL7.png" group-title="dominican" tvg-id="" tvg-name="", Mango TV
+http://mangotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="dominican" tvg-id="" tvg-name="", Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVbDO5T.png" group-title="dominican" tvg-id="" tvg-name="", Naranja TV
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="dominican" tvg-id="" tvg-name="", Nexxo 20
+http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="dominican" tvg-id="" tvg-name="", Onda TV 10
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="dominican" tvg-id="" tvg-name="", Orbit Cable
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AENttMt.png" group-title="dominican" tvg-id="" tvg-name="", Oui TV Canal 3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E3xRbzP2DiA/T4VacAhY0ZI/AAAAAAAAFoE/2sHE_KAXqvg/s400/peravia_vision_logo.png" group-title="dominican" tvg-id="" tvg-name="", Peravia Vision 8
+http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="dominican" tvg-id="" tvg-name="", Puñal TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="dominican" tvg-id="" tvg-name="", Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="dominican" tvg-id="" tvg-name="", Romana TV 42
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx7sVqb.png" group-title="dominican" tvg-id="" tvg-name="", Super TV 55
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="dominican" tvg-id="" tvg-name="", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="dominican" tvg-id="" tvg-name="", Telecontacto 57
+https://cdn.hostlagarto.com:4445/telecontacto/telecontacto.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUndmKG.png" group-title="dominican" tvg-id="" tvg-name="", Telefuturo 23
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2bj6efg.png" group-title="dominican" tvg-id="" tvg-name="", Telekaribe
+http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+
+#EXTINF:-1 tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="dominican" tvg-id="" tvg-name="", Telemilenio Canal 50
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="dominican" tvg-id="" tvg-name="", Telenord 8 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="dominican" tvg-id="" tvg-name="", Telenord 8 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="dominican" tvg-id="" tvg-name="", Telenord 10 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="dominican" tvg-id="" tvg-name="", Telenord 10 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="dominican" tvg-id="" tvg-name="", Telenord 12 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="dominican" tvg-id="" tvg-name="", Telenord 12 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="dominican" tvg-id="" tvg-name="", Telenovisa 43
+http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="dominican" tvg-id="" tvg-name="", Teleradio America 45
+http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1884577868.m3u8
+
+#EXTINF:-1 tvg-logo="http://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="dominican" tvg-id="" tvg-name="", Telesistema 11
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsF33wj.png" group-title="dominican" tvg-id="" tvg-name="", Teleuniverso 29
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/s2FJJDS.png" group-title="dominican" tvg-id="" tvg-name="", Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8hEg0HX.png" group-title="dominican" tvg-id="" tvg-name="", Television del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bV0oWdW.png" group-title="dominican" tvg-id="" tvg-name="", TV Montaña 10
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qNl5scQ.png" group-title="dominican" tvg-id="" tvg-name="", TV Plata 3
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fmKPokt.png" group-title="dominican" tvg-id="" tvg-name="", TVS Canal 22
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcGzKEz.png" group-title="dominican" tvg-id="" tvg-name="", Vallevision TV (New!)
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyVUlYx.png" group-title="dominican" tvg-id="" tvg-name="", Vision 3000
+http://ss1.domint.net:2202/v3_str/v3000/chunklist_w223748530.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bBhi3Q.png" group-title="dominican" tvg-id="" tvg-name="", Yuna Vision 10
+http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Acento TV
+http://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKsv5Xd.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Ame 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bellavision8.com/bellavision_logo%20(1).png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Bellavision 8
+http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NCuyez.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Bonao TV Canal 12
+http://ss1.domint.net:2226/btv_str/bonao/chunklist_w482371085.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIrrAaR.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Buena TV Canal 14
+https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY4Nzef.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Canal 4 RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QlWnpQ.jpg" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Canal 25 Santiago
+https://ss1.domint.net:3108/c25_str/canal25/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzICwYY.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Canal del Sol 65
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQxXbjN.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Carivision
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBJnty.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Cinevision 19
+http://cinevision01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72pioLp.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Color Vision 9 (New!)
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPbU5er.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Digital 15
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnmAyXT.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Digital Vision 63
+http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HnBtC9.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Faro Vision
+http://184.173.181.2:1935/8060/8060/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", GH Television
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Info TDN
+http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pp6O7SB.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Linieros TV 36
+http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Luna TV
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXE2CL7.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Mango TV
+http://mangotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVbDO5T.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Naranja TV
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Nexxo 20
+http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Onda TV 10
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Orbit Cable
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AENttMt.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Oui TV Canal 3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E3xRbzP2DiA/T4VacAhY0ZI/AAAAAAAAFoE/2sHE_KAXqvg/s400/peravia_vision_logo.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Peravia Vision 8
+http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Puñal TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Romana TV 42
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx7sVqb.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Super TV 55
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telecontacto 57
+https://cdn.hostlagarto.com:4445/telecontacto/telecontacto.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUndmKG.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telefuturo 23
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2bj6efg.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telekaribe
+http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+
+#EXTINF:-1 tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telemilenio Canal 50
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telenord 8 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telenord 8 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telenord 10 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telenord 10 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telenord 12 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telenord 12 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telenovisa 43
+http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Teleradio America 45
+http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1884577868.m3u8
+
+#EXTINF:-1 tvg-logo="http://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telesistema 11
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsF33wj.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Teleuniverso 29
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/s2FJJDS.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8hEg0HX.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Television del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bV0oWdW.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", TV Montaña 10
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qNl5scQ.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", TV Plata 3
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fmKPokt.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", TVS Canal 22
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcGzKEz.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Vallevision TV (New!)
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyVUlYx.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Vision 3000
+http://ss1.domint.net:2202/v3_str/v3000/chunklist_w223748530.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bBhi3Q.png" group-title="DOMINICAN REPUBLIC" tvg-id="" tvg-name="", Yuna Vision 10
+http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
